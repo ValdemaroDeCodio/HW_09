@@ -1,0 +1,17 @@
+
+                                Hello! How can I help you?
+
+                                        Commands:
+
+"add...": Please enter contact's name and phone number, separated by a space instead of the ellipsis (...).
+
+"change...": This command allows you to change the phone number for an existing contact.
+Please enter contact's name and phone number, separated by a space instead of the ellipsis (...).
+
+"clear": For clear the phone book.
+
+"phone...": Please enter the name of the contact whose number you want to display instead of (...).
+
+"show all": To display all saved contacts with their phone numbers in the console.
+
+"exit": To terminate the program.
